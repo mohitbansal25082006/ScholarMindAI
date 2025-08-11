@@ -7,7 +7,7 @@
 
 ---
 
-## ✨ Features (v1.0 – Part 6)
+## ✨ Features (v1.0)
 
 | # | Feature | Description |
 |--|--|--|
@@ -16,7 +16,6 @@
 |3|⚖️ Multi-Document Compare|Side-by-side table + **contradictions & research gaps**|
 |4|📝 AI Literature Review|Auto-draft **Intro, Methods, Results, Discussion** (Scientific / Business / Education modes)|
 |5|📊 Quick Visuals|Keyword bar-chart & word-cloud|
-|6|🎨 Dark/Light Toggle|Sidebar switch|
 
 All Gemini calls ≤ 800 tokens → **free-tier safe**.
 
