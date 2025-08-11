@@ -1,7 +1,7 @@
 # 📘 ScholarMindAI – README
 
 **A 100 % free, AI-powered research companion that stays inside Google Gemini’s free tier.**  
-🚀 **preview:** preview2.png
+🚀 **preview:** (preview2.png)
 
 ---
 
